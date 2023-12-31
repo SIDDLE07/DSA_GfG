@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/siddle/Repos/DSA_GfG/main.csproj",
+      "projectUniqueName": "/Users/siddle/Documents/Projects/DSA/DSA_GfG/main.csproj",
       "projectName": "main",
-      "projectPath": "/Users/siddle/Repos/DSA_GfG/main.csproj",
+      "projectPath": "/Users/siddle/Documents/Projects/DSA/DSA_GfG/main.csproj",
       "packagesPath": "/Users/siddle/.nuget/packages/",
-      "outputPath": "/Users/siddle/Repos/DSA_GfG/obj/",
+      "outputPath": "/Users/siddle/Documents/Projects/DSA/DSA_GfG/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/siddle/.nuget/NuGet/NuGet.Config"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.100/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.309/RuntimeIdentifierGraph.json"
       }
     }
   }
